@@ -1,0 +1,2 @@
+# Financial-Portfolio-Optimization-and-Time-Series-Forecasting
+This project applies time series forecasting models (ARIMA, SARIMA, LSTM) on financial data from YFinance for assets like TSLA, BND, and SPY. The aim is to predict market trends, optimize portfolio allocation, and maximize returns while minimizing risks. Key tasks include data preprocessing, model development, and portfolio optimization analysis.
